@@ -20,6 +20,14 @@
         <maxVersion>37.0.*</maxVersion>
       </r:Description>
     </targetApplication>
+
+    <updateURL>http://mozvr.com/downloads/webvr-oculus-addon-update.rdf</updateURL>
+    <updateKey>
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDF6ehCIhoh2UW445TGtWC6O6qw
+Z/OmgyU/HJaXR10kM+H07z2Z8pGNJEj8EG0gG6kCjK74KOpXGzsrLnx19BwmkLWd
+VMomH31G/vDEotGLLu4LqBbw0d0ZUvi/3iWRpK9rrTm1Aj2ux/BRct65LLF2bg88
+Ru+rluUN4kckPkKo/wIDAQAB
+    </updateKey>
   </r:Description>
 </r:RDF>
 
